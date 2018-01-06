@@ -1,6 +1,6 @@
 ## Disk Encryption Simulator
 
-A disk encryption simulator with simple LUKS implementation created for an academic lab.
+A disk encryption simulator with simple LUKS implementation created for an academic lab. This project should not be considered secure and should not be used to secure *anything*!
 
 ### Issues
 * XEX is incorrectly implemented.
